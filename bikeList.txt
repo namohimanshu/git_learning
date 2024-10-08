@@ -15,3 +15,6 @@ splendor plus xtec 60kmpl
 hf delux 65kmpl
 glamour 55kmpl
 passion plus 60 kmpl
+
+==
+This is list of affordable bikes.
